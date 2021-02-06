@@ -7,3 +7,4 @@ pluginManagement {
     }
 }
 
+include("ok-conference-common")
