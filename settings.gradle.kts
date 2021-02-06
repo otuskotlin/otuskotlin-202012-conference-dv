@@ -8,3 +8,4 @@ pluginManagement {
 }
 
 include("ok-conference-common")
+include("ok-conference-common-multiplatform")
