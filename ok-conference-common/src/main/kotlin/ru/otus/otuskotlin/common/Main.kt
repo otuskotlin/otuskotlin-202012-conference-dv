@@ -1,5 +1,5 @@
 package ru.otus.otuskotlin.common
 
-fun main(vararg args: String) {
+fun main() {
     println("Hello")
 }
