@@ -23,6 +23,5 @@
 hs_err_pid*
 
 .gradle/
-build/
+**/build/
 .idea/
-/ok-conference-common/build/
